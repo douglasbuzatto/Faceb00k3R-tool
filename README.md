@@ -1,6 +1,6 @@
 # Faceb00k3R-tool
 
-apenas peguei o codigo e mudei user agente e idioma, 
+Apenas peguei o codigo e mudei user agente e idioma, 
 para quando logar na conta da vitima a pessoas nao 
 estranhar o agente rodando em linux.
 
