@@ -5,7 +5,7 @@ para quando logar na conta da vitima a pessoas nao
 estranhar o agente rodando em linux.
 
 
-Todos os creditos desse codigo são do ddesenvolvedor:
+Todos os creditos desse codigo são do desenvolvedor
 
 
  Cyb3rw0rm@hotmail.com
